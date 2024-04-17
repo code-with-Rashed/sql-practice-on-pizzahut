@@ -17,7 +17,7 @@ Creaate a database like : <strong>pizzahut</strong>
 
 
 
-## Solve these questions
+## I solved these questions
 
 - Retrieve the total number of orders placed.
 
